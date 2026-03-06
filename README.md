@@ -1,16 +1,23 @@
-## Hi there 👋
+# Alfredo Sanabria
 
-<!--
-**alfredosn/alfredosn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor em formação focado em Web Development.
 
-Here are some ideas to get you started:
+## Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Estudando programação web
+- Criando projetos para evoluir minhas habilidades
+- Interessado em desenvolvimento Full Stack
+- Estudande de Engenharia de Software
+  
+
+## Tecnologias que estou aprendendo
+
+- HTML
+- CSS
+- JavaScript
+- Git e GitHub
+
+## Contato
+
+Email: alfredosanabria04@gmail.com
+LinkedIn: www.linkedin.com/in/alfredo-sanabria-4b83b0232
